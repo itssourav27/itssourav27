@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itssourav27&label=Profile+Views&color=blue&style=for-the-badge">
-  <a href="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70676942/a6de9b41-e768-487b-be1e-a658bbdc17a7/Resume_sourav.pdf">
+  <a href="https://drive.google.com/file/d/1VIIZK0_xhKH6NPubCkTiRtqhIasAJfzy/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
@@ -153,4 +153,3 @@ I'm always open to collaborating on projects and new ideas. Let's build somethin
 <p align="center">
   <i>"Code is poetry, and every commit is a verse."</i>
 </p>
-
