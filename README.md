@@ -33,10 +33,7 @@
 
 - [About Me](#about-me)
 - [Experience](#experience)
-- [Projects](#projects)
 - [Tech Stack](#tech-stack)
-- [Certifications](#certifications)
-- [Education](#education)
 - [GitHub Stats](#github-stats)
 - [Let's Connect!](#lets-connect)
 
