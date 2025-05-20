@@ -72,20 +72,6 @@ Highly motivated third-year Computer Science Engineering student eager to apply 
 
 ---
 
-## 🚀 Projects
-
-- **Advance Filtering for Amazon Rating, Reviews and Returns**  
-  - Flask web app with live web scraping (Selenium) and a fine-tuned BERT model for classifying reviews as genuine or fake.
-  - Achieved 91.45% accuracy using HuggingFace Transformers and PyTorch.
-  - Engineered a Trust Score formula and built an insightful UI for users.
-
-- **Sentiment Analysis of Amazon Reviews using NLP**  
-  - Developed a sentiment analysis pipeline using Python, VADER, and RoBERTa on 500,000+ reviews.
-  - Implemented tokenization, stemming, and vectorization (NLTK, Scikit-learn).
-  - Visualized sentiment trends with Matplotlib and Seaborn.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C, C++, HTML, CSS, JavaScript  
@@ -103,27 +89,6 @@ Highly motivated third-year Computer Science Engineering student eager to apply 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
----
-
-## 🏅 Certifications
-
-- NPTEL: Cryptography and Network Security – IIT Kharagpur (April 2025)
-- NPTEL: Cloud Computing – IIT Kharagpur (May 2025)
-- Certificate in Python – SOLOLEARN
-- Cybersecurity Fundamentals – Google
-- Introduction to Generative AI – Google
-- ChatGPT for Beginners – Great Learning
-- Introduction to Duet AI in Google Workspace – Google
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-Shri Mata Vaishno Devi University, Katra, JK  
-*Oct 2022 – May 2026*  
-CGPA: **7.24**
 
 ---
 
