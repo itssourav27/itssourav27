@@ -41,18 +41,18 @@
 
 ## 🙋‍♂️ About Me
 
-Highly motivated third-year Computer Science Engineering student eager to apply and enhance programming and machine learning skills in real-world settings. I thrive on contributing to innovative projects and enjoy collaborative development environments. My interests span AI, ML, NLP, and building robust, user-friendly web solutions.
+Computer Science engineering student and aspiring full-stack web developer with practical experience in frontend and backend development. Proficient in React.js, JavaScript, HTML, CSS, Node.js, and Flask. Passionate about building responsive web applications, learning modern frameworks, and utilizing my skills to help create real-world applications while working collaboratively in a team environment.
 
 ---
 
 ## 💼 Experience
 
-- **Machine Learning Intern – IIT Jammu**  
+- **ML Research Intern – IIT Jammu**  
   *Jan 2025 – Feb 2025*  
   - Gained hands-on experience in ML and NLP, focusing on model training, embedding extraction, and optimization.
   - Developed, tested, and optimized AI models for real-world challenges.
 
-- **AI/ML Intern – NIT Patna**  
+- **NLP Research Intern – NIT Patna**  
   *Jun 2024 – Jul 2024*  
   - Implemented sentiment analysis models for Amazon product reviews using NLP.
   - Worked on text preprocessing, tokenization, and ML algorithms for opinion mining.
@@ -73,7 +73,7 @@ Highly motivated third-year Computer Science Engineering student eager to apply 
 
 **Languages:** Python, C, C++, HTML, CSS, JavaScript  
 **Data Science:** NumPy, Pandas, Scikit-Learn  
-**Tools:** Git, GitHub, GenAI, Linux  
+**Tools:** Git, GitHub, GenAI, Linux, VScode 
 **Other Skills:** DSA, Computer Networks, ML, AI, NLP, Soft Computing, Network Security, Cryptography
 
 <p align="left">
