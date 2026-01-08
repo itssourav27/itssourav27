@@ -48,12 +48,12 @@ Computer Science engineering student and aspiring full-stack web developer with 
 ## 💼 Experience
 
 - **ML Research Intern – IIT Jammu**  
-  *Jan 2025 – Feb 2025*  
+  *Jan 2025 – Mar 2025*  
   - Gained hands-on experience in ML and NLP, focusing on model training, embedding extraction, and optimization.
   - Developed, tested, and optimized AI models for real-world challenges.
 
 - **NLP Research Intern – NIT Patna**  
-  *Jun 2024 – Jul 2024*  
+  *Jun 2024 – Aug 2024*  
   - Implemented sentiment analysis models for Amazon product reviews using NLP.
   - Worked on text preprocessing, tokenization, and ML algorithms for opinion mining.
 
