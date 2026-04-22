@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🚀 <b>Computer Science Student | AI/ML Engineer | Frontend Developer</b> 🚀
+🚀 <b>Computer Science Student | AI/ML Engineer | Frontend Developer | Data Analyst</b> 🚀
 </p>
 
 <p align="center">
