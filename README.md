@@ -2,11 +2,11 @@
 <h1 align="center">Hello World! 👋 I'm Sourav Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Frontend+Developer+%7C+Data+Analyst;Welcome+to+my+GitHub+Universe!&center=true&width=600&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Software+Developer+%7C+Data+Analyst;Welcome+to+my+GitHub+Universe!&center=true&width=600&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
-🚀 <b>Computer Science Student | AI/ML Engineer | Frontend Developer | Data Analyst</b> 🚀
+🚀 <b>Computer Science Student | AI/ML Engineer | Software Developer | Data Analyst</b> 🚀
 </p>
 
 <p align="center">
