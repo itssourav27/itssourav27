@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itssourav27&label=Profile+Views&color=blue&style=for-the-badge">
-  <a href="https://drive.google.com/file/d/11F-qp2TCS0hyHvZpWP1B3nwnxhJYSfYD/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/11xK26blugDM-SOkTysg5reHORcreljo9/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
