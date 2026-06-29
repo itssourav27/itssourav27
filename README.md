@@ -130,7 +130,7 @@ Computer Science engineering student and aspiring full-stack web developer with 
 I'm always open to collaborating on projects and new ideas. Let's build something awesome together! 🚀
 
 <p align="center">
-  <a href="https://linkedin.com/in/sourav-raj"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sourav-raj-43152223b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
   <a href="https://twitter.com/_souravsays_"><img src="https://img.shields.io/badge/Twitter-Follow_@_souravsays_-1DA1F2?style=for-the-badge"></a>
 </p>
 
