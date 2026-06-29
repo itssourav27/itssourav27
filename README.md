@@ -47,6 +47,21 @@ Computer Science engineering student and aspiring full-stack web developer with 
 
 ## 💼 Experience
 
+- **Data Analyst – Hiveminds Bangalore, India** 
+*May 2026 – Present*
+- Conduct end-to-end data analysis by gathering business requirements, analyzing datasets, and designing scalable reporting solutions.
+- Develop interactive dashboards and automated reports using SQL, Power BI, and Excel to support business and marketing teams.
+- Analyze campaign performance, trends, seasonality, and KPIs to provide actionable insights that improve business decisions.
+- Build and optimize SQL queries for data extraction, transformation, validation, and reporting across multiple data sources.
+- Perform data quality checks, automate validation processes using Python and Selenium, and improve reporting accuracy.
+
+- **Backend and API Development Intern(Remote) - PrivateHive, Hyderabad, India** 
+*Jan 2026 – Apr 2026*
+- Developed and deployed 10+ scalable full-stack features using React, React Native, and Node.js, improving application performance and user engagement.
+- Resolved 20+ critical bugs across frontend, backend, and mobile layers, enhancing system reliability and reducing crash rates.
+- Optimized API response time and frontend rendering, achieving ˜20% performance improvement.
+- Collaborated in Agile development environment using Git, code reviews, and CI/CD workflows.
+  
 - **ML Research Intern – IIT Jammu**  
   *Jan 2025 – Mar 2025*  
   - Gained hands-on experience in ML and NLP, focusing on model training, embedding extraction, and optimization.
@@ -71,10 +86,13 @@ Computer Science engineering student and aspiring full-stack web developer with 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, C++, HTML, CSS, JavaScript  
-**Data Science:** NumPy, Pandas, Scikit-Learn  
-**Tools:** Git, GitHub, GenAI, Linux, VScode 
-**Other Skills:** DSA, Computer Networks, ML, AI, NLP, Soft Computing, Network Security, Cryptography
+**Languages:** Python, C, C++, HTML, CSS, JavaScript, Django, DRF 
+**Data & ML:** NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
+**Databases:** PostgreSQL, MongoDB, SQL
+**System Design:** REST APIs, Modular Architecture, Authentication Systems
+**Caching & Async:** Redis, Celery, Background Workers
+**Other Skills:** DSA, Computer Networks, ML, AI, NLP, OOP
+**Tools:** Git, GitHub, Linux, VScode, Postman
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
