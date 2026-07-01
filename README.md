@@ -77,7 +77,7 @@ Computer Science engineering student and aspiring full-stack web developer with 
   - Implemented sentiment analysis models for Amazon product reviews using NLP.
   - Worked on text preprocessing, tokenization, and ML algorithms for opinion mining.
 
-- **C++ Development Intern – CodSoft**  
+<!--- **C++ Development Intern – CodSoft**  
   *Jan 2024 – Feb 2024*  
   - Developed C++ programs focused on data structures and algorithms.
   - Built modular, reusable code and deepened OOP understanding.
@@ -86,7 +86,7 @@ Computer Science engineering student and aspiring full-stack web developer with 
   *Sep 2023 – Oct 2023*  
   - Designed and developed a personal portfolio website using HTML, CSS, and JavaScript.
   - Built a Netflix-inspired front-end interface with modern design principles.
-
+--->
 ---
 
 ## 🛠️ Tech Stack
