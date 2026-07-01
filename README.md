@@ -44,6 +44,10 @@
 Computer Science engineering student and aspiring full-stack web developer with practical experience in frontend and backend development. Proficient in React.js, JavaScript, HTML, CSS, Node.js, and Flask. Passionate about building responsive web applications, learning modern frameworks, and utilizing my skills to help create real-world applications while working collaboratively in a team environment.
 
 ---
+<p align="center">
+  <img src="https://github.com/shamiquekhan/ShamiqueKhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
 
 ## 💼 Experience
 
