@@ -117,7 +117,7 @@ Computer Science engineering student and aspiring full-stack web developer with 
 </p>
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -128,7 +128,7 @@ Computer Science engineering student and aspiring full-stack web developer with 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssourav27&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
----
+--->
 
 ## 📫 Let's Connect!
 
